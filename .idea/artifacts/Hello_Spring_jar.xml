@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Hello Spring:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Hello_Spring_jar</output-path>
+    <root id="archive" name="Hello Spring.jar">
+      <element id="module-output" name="Hello Spring" />
+    </root>
+  </artifact>
+</component>
